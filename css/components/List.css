@@ -1,0 +1,25 @@
+.List ul {
+  margin: 0 0 0 2px;
+  padding: 0;
+}
+.List ul li.item {
+  list-style-type: none;
+  background-color: #FFF;
+  width: 328px;
+  text-align: left;
+  padding: 5px 2px 4px 2px;
+  margin-bottom: 3px;
+  font-size: 16px;
+  color: #333;
+  border: 1px solid #999;
+}
+.List .description {
+  width: 289px;
+  height: 19px;
+  float: left;
+  font-family: 'Bree Serif', serif;
+  overflow: hidden;
+  padding: 0px;
+  line-height: 16px;
+  margin-left: 8px
+}

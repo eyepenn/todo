@@ -1,0 +1,7 @@
+.Actions .ActionsDelete {
+	cursor: pointer;
+	outline: none;
+	color: #B7477D;
+	margin-left: 10px;
+	line-height: 20px;
+}

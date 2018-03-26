@@ -1,0 +1,13 @@
+.Logo {
+	background-image: url('../../images/checklist.jpg');
+	background-size: cover;
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	vertical-align: middle;
+}
+h1 {
+	text-transform: uppercase;
+	font-family: 'Bree Serif', serif;
+	font-size: 36px;
+}

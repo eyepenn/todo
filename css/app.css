@@ -1,0 +1,17 @@
+body {
+	background: #FFF;
+	color: #000;
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+}
+#center {
+	height:100%;
+	width:100%;
+	text-align: center;
+}
+#app {
+	width: 360px;
+	height: 600px;
+	margin:25px auto 0px auto;
+}
